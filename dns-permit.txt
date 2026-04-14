@@ -10,3 +10,4 @@
 @@||fonts.xvideos-cdn.com^
 @@||static-hw.xvideos-cdn.com^
 @@||mercadolibre.com^
+@@||mercadolibre.com.ar^
